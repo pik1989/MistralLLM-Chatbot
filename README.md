@@ -12,3 +12,6 @@ In this repository, we have used Mistral 7B to create a LLM chatbot:
 
 ![image](https://github.com/pik1989/MistralLLM-Chatbot/assets/34673684/85cfaf0f-9fab-4fb5-b7c4-8b6990fe8b45)
 
+#### Code by: 
+
+[Vasanth P](https://www.linkedin.com/in/vasanthengineer4949/)<br>
