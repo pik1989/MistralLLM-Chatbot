@@ -8,4 +8,7 @@ Mistral 7B is a specific model within the Mistral LLM family. The "7B" refers to
 
 Mistral 7B is trained on a large amount of text data and can be used for a wide range of natural language processing tasks, such as text generation, question answering, language translation, and more. It is designed to understand and generate text in a way that is coherent and contextually relevant.
 
-Overall, Mistral LLM and the Mistral 7B model are powerful language models developed by Mistral AI for various natural language processing tasks.
+In this repository, we have used Mistral 7B to create a LLM chatbot:
+
+![image](https://github.com/pik1989/MistralLLM-Chatbot/assets/34673684/85cfaf0f-9fab-4fb5-b7c4-8b6990fe8b45)
+
